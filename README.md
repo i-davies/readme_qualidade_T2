@@ -4,9 +4,9 @@
 Descreva em uma frase qual problema este projeto resolve
 
 ## Funcionalidades planejadas
-- [ ] Funcionalidade 1
-- [ ] Funcionalidade 2
-- [ ] Funcionalidade 3
+- [X] Funcionalidade 1
+- [X] Funcionalidade 2
+- [X] Funcionalidade 3
 
 ## Como executar
 ## Pré-requisitos
@@ -23,6 +23,11 @@ uv run main.py
 ```
 
 ## Controle de Qualidade
+## Ligação com norma:
+- ISO 12207: Organização da informação e implementação
+- ISO 25010: Clareza dos requisitos melhora manutenibilidade e confiabilidade
+
+
 ### Testes planejados
 - [ ] Cenário válido principal
 - [ ] Cenário inválido principal
